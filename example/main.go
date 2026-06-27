@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"govaultwarden/vaultwarden"
+	"github.com/dchauviere/govaultwarden/vaultwarden"
 )
 
 func main() {
